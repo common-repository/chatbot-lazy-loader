@@ -1,0 +1,12 @@
+#drift-button {
+  position: fixed;
+  z-index: 99;
+  right: 36px;
+  bottom: 36px;
+  padding: 16px;
+  background-color: var(--chat-button) !important;
+  border-radius: 5px;
+  border: none;
+  box-shadow: none;
+  cursor: pointer;
+}
